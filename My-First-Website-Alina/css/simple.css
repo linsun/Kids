@@ -14,7 +14,7 @@ h2{
 	backgroung-color: green;
 	color: orange;
 	border-radius: 10px;
-} 
+}
 ul li {
 		padding: 10px;
 	border-radius: 30px;
@@ -22,8 +22,8 @@ ul li {
 	border-color: green;
 	list-style-type: none;
 	display: inline;
-	margin-right: 1px;
-	margin-left: 1px;
+	margin-right: 10px;
+	margin-left: 10px;
 }
 ul li a {
 	color: white;
@@ -32,4 +32,3 @@ ul li a {
 		color: #99DDFF
 		text-decoration:underline;
 }
-
